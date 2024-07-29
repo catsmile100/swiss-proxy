@@ -29,4 +29,4 @@ $1 & spinner "$task" "$msg"
 tput cnorm
 
 # usage => ./loader.sh "<TIMER_TO_SLEEP>" "<PROGRESS>" "<TASK_NAME>"
-# e.g => ./loader.sh "sleep 5" "..." "Installing Dependencies"
+# e.g => ./load.sh "sleep 5" "..." "Installing Dependencies"
